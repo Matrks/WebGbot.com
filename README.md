@@ -1,1 +1,1 @@
-# WebGbot.com
+# webgbot.com
